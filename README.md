@@ -1,5 +1,5 @@
 Hi, I'm Dev 👋
-B.Tech CSE Student · Data Structures & Algorithms · YamunaNagar, Haryana, India
+B.Tech CSE Student · Data Structures & Algorithms · Yamuna Nagar, Haryana, India
 I'm a college student focused on problem solving and DSA. I practice coding daily,
 build small projects to apply what I learn, and I'm working toward being placement-ready.
 🧠 Languages & Tools
