@@ -13,7 +13,7 @@ VS Code
 📚 Solving DSA daily — Arrays → Strings → Linked List → Trees → Graphs → DP
 🧩 Practicing on LeetCode and GeeksforGeeks
 💻 Building small projects to apply concepts
-🎯 Goal: strong fundamentals + placement ready by 20XX
+🎯 Goal: strong fundamentals + placement ready by 2028
 📊 GitHub Stats
 📂 Projects
 Repository	What's inside
